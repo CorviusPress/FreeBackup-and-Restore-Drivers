@@ -15,3 +15,5 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 ![Free Driver and Recovery for Windows](https://raw.githubusercontent.com/CorviusPress/DriversSave/main/Free%20Backup%20And%20Restore%20Drivers.png)
 
 </div>
+
+DriverSave is a PowerShell tool that automates driver backup and restore in Windows. It uses pnputil to export all currently installed drivers to a specified folder and allows them to be reloaded after system reinstallation, upgrades, or migration to a new computer. The script is designed to be simple, reliable, and usable even without advanced PowerShell knowledge.
